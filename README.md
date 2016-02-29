@@ -1,2 +1,2 @@
-# fantastic-parakeet
+# Fantastic Parakeet
 Test repo for fun with coding
